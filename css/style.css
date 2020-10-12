@@ -1,0 +1,22 @@
+body {
+
+	background-color: lightblue;	
+		
+    }
+    .vloot1 {
+        border: 2px; color: solid black;
+        float: left;
+        margin-right: 2px;
+      }
+
+      .vloot2 {
+        border: 2px; color: solid black;
+        float: right;
+        margin-right: 2px;
+      }
+
+      .vloot3 {
+        border: 2px; color: solid black;
+        float: left;
+        margin-right: 2px;
+      }
